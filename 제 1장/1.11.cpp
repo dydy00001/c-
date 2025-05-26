@@ -9,7 +9,7 @@ int main()
 	{
 		p += s / 7.0;
 		p -= s / 13.0;
-		p -= s / 45.0;
+		p += s / 45.0;
 	}
 
 	cout << p << endl;
